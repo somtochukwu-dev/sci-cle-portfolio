@@ -22,15 +22,14 @@ sci-cle-portfolio/
 ├── images/ # Placeholder logo and assets
 └── README.md # Project info
 
-yaml
-Copy code
+
 
 ---
 
 ## ⚙️ How to View
 
 1. Clone the repo:
-```bash
+
 git clone https://github.com/yourusername/sci-cle-portfolio.git
 Open index.html in your browser.
 
@@ -41,3 +40,6 @@ Original assets have been removed for privacy.
 
 👨‍💻 Author
 Developed by Somtochukwu O
+
+License
+This project is licensed for educational and portfolio purposes. Contact for commercial use.
